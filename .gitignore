@@ -1,2 +1,9 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+workspace.xml
+tasks.xml
+
 # Project exclude paths
 /out/
